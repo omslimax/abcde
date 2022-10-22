@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "160131927785",
+    "project_id": "ditumbas-d17ae",
+    "storage_bucket": "ditumbas-d17ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160131927785:android:8d9e149faf49174abaaa78",
+        "android_client_info": {
+          "package_name": "com.ditumbas.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160131927785-o8s27gf2va70led2pkkrlv0ogosm2ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YfWDGvrOfIxUNWZHE_XBsaJWBPn_cfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160131927785-o8s27gf2va70led2pkkrlv0ogosm2ipv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160131927785-m0lm8l3912tfkv3ctclpfn95mmk2q56r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ditumbas.android"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
